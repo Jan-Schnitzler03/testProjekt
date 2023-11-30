@@ -1,2 +1,9 @@
 Hallo Welt
+<<<<<<< HEAD
 HALLO SELBER
+=======
+Hallo zurück
+
+nichts ändern bitte
+okay tut mir leid, ist aber wichtig
+>>>>>>> origin/master
